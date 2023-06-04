@@ -8,7 +8,7 @@ const NavBar = () => {
     >
       <div className="container">
         <a className="navbar-brand" href="#">
-         
+         Gato Feliz
         </a>
         <button
           className="navbar-toggler"
