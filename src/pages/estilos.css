@@ -10,11 +10,12 @@
 .flex-container {
     display: flex;
     background-color: rgb(109, 20, 20);
-    
+    justify-content: space-evenly;
   }
 
 .imagen {
     float: right;
+    width: 600px;
     border-radius: 50%
 }
 
@@ -23,6 +24,7 @@
   padding: 10px;
   border: 5px solid rgb(255, 214, 100);
   margin: 0; 
+  gap: 10px;
   text-align: left;
   font-size: 50px;
   color: rgb(255, 255, 255);

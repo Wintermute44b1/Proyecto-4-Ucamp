@@ -35,7 +35,7 @@ const NavBar = () => {
             </li>
             <li className="nav-item">
               <NavLink className="nav-link" to="/contactus">
-                Contactanos
+                Reservas 
               </NavLink>
             </li>
           </ul>
