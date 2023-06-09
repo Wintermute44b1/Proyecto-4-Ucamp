@@ -1,5 +1,4 @@
 import React from 'react';
-import { Card, Pagination } from 'bootstrap';
 
 const Blog = () => {
   const posts = [
